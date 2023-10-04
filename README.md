@@ -2,7 +2,7 @@
 Twitter Sentiment Analysis on COVID-19 Pandemic
 Smith Analytics Consortium (SAC) -Deloitte Data Series Workshop: COVID-19 Tweets Analysis for Government Responses
 
-July 9 to August 14, 2020
+July 9 to August 14, 2020  https://www.rhsmith.umd.edu/news/deloitte-delivers-hands-virtual-summer-workshop-mba-and-ms-students
 
 The COVID-19 pandemic disrupted summer internship plans for many Maryland Smith graduate students, so the SAC and Deloitte Data Scientists came together to host a one-month-long Data Series Workshop to enrich students’ data analysis skills and make a difference in the unprecedented pandemic.
 
